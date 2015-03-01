@@ -1,10 +1,9 @@
-BannerBaby
+Banner-Fade-Reset
 ============
 
-####Understanding slideshow animation banners without the use of Jquery
+####A template of a simple slide show with a reset function using vanilla JS
 
 #####Technologies used:
   - HTML5
   - CSS3
-  - Javscript
-  - TweenLite.js 
+  - Javascript
