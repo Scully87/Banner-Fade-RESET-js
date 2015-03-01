@@ -1,9 +1,6 @@
-Banner-Fade-Reset
+Banner-Fade-Reset MINIFIED!!
 ============
 
-####A template of a simple slide show with a reset function using vanilla JS
+####Minified Branch, testing for small file size
 
-#####Technologies used:
-  - HTML5
-  - CSS3
-  - Javascript
+
